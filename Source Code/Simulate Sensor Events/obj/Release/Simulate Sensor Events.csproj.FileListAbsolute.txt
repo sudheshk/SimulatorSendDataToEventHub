@@ -1,0 +1,14 @@
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\bin\Release\Simulate Sensor Events.exe.config
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\bin\Release\Simulate Sensor Events.exe
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\bin\Release\Simulate Sensor Events.pdb
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\bin\Release\Microsoft.ServiceBus.dll
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\bin\Release\Newtonsoft.Json.dll
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\bin\Release\Microsoft.ServiceBus.xml
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\bin\Release\Newtonsoft.Json.xml
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\obj\Release\Simulate_Sensor_Events.Form1.resources
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\obj\Release\Simulate_Sensor_Events.Properties.Resources.resources
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\obj\Release\Simulate Sensor Events.csproj.GenerateResource.Cache
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\obj\Release\Simulate Sensor Events.exe
+C:\temp\HMI\Simulate Sensor Events\Simulate Sensor Events\obj\Release\Simulate Sensor Events.pdb
