@@ -1,5 +1,5 @@
 # SimulatorSendDataToEventHub
-You can use this simulator app to send simulated data to eventhub
+You can use this simulator app to send simulated data to eventhub. If you want just he executable, download all the files under "Just The App" folder. For source code, use "Source Code" folder.
 
 Before using, ensure that you have provided eventhub connection information in the "Simulate Sensor Events.exe.config" file. Following are the configs that need change:
 
